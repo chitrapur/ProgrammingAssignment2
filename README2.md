@@ -1,0 +1,1 @@
+#In this second programming assignment in Dr. Peng's R Programming course I am #writing an R function that is able to cache potentially time-consuming computations. #Specifically, Matrix inversion is considered to be usually a costly computation. My #assignment is to write a pair of functions that cache the inverse of a matrix.
